@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    margin-top: 120px;
+    gap: 1rem;
+    text-align: center;
+}
+
+.content{
+    border: 2px solid black;
+
+}
+
+img{
+    width: 250px;
+    height: 120px;
+}
